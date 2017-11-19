@@ -1,0 +1,7 @@
+1. # Îª×¢ÊÍ·û
+2. *.a # ignore all endwith a file
+3. !lib.a # exclude soame case
+4. /TODO # just ignore TODO under current directory
+5. build/ # ignore the files under build
+6. doc/*.txt # ignore the files endwith txt under doc direcotry
+7. doc/**/*/pdf # 
